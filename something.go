@@ -8,4 +8,5 @@ import (
 
 func F() {
 	fmt.Println(dummy.Dummy)
+	fmt.Println("something")
 }
